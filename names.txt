@@ -1,7 +1,0 @@
-mohit kumar
-text file
-
-exit
-clear
-:wq
-
