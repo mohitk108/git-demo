@@ -20,10 +20,9 @@ This website was built using the following technologies:
 
     HTML
     CSS
-    JavaScript
-    Bootstrap
-    jQuery
-
+    Vanilla JS
+    
+    
 Features
 
     Clean and modern design
@@ -39,7 +38,7 @@ To install this website on your local machine, simply clone the repository and o
 
 bash
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/claddyk/portfolio.git
 cd your-repo
 open index.html
 
