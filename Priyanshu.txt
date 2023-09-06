@@ -1,0 +1,5 @@
+hName : Priyanshu Upadhyay
+BT No. : BT22CSE226
+
+Expectation : My expectation is to know much more about git and github, learn and explore  in open source and know job scope in it.
+
