@@ -1,0 +1,9 @@
+Hi My name is Pratik Nimbole
+BT22CSE016
+
+Expectation:
+- getting a overview about git hub and know exactly what is open source and how to get resources for it.
+
+
+Rate of Success:
+- more than 70%. 
