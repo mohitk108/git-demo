@@ -1,0 +1,7 @@
+Name:Rathod Pavan Kumar Naik
+
+Roll.No: BT22CSE111
+
+Expectation: To learn more about git
+
+Status : 66%
