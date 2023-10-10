@@ -1,0 +1,5 @@
+Aneket Burman HERE !
+BT22ECE133
+
+EXPECTATION : Will get introduced to new tech and get comfortable with using GitHub and Git
+FULLFILLED : 70%
