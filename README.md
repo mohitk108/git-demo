@@ -1,5 +1,6 @@
+# Repo(Archived) used to help students get started with git and github.
 
-# Portfolio
+## Portfolio
 
 This portfolio website is designed to give potential employers and clients a glimpse into my experience and abilities as a web developer. It includes information about my education, work experience, and personal projects.
 ## 🛠 Tech Used
