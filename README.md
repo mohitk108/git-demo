@@ -1,12 +1,13 @@
+# Repo used to help students get started with git and github.
 
-# Portfolio
+### Portfolio
 
 This portfolio website is designed to give potential employers and clients a glimpse into my experience and abilities as a web developer. It includes information about my education, work experience, and personal projects.
-## 🛠 Tech Used
+### 🛠 Tech Used
 HTML, CSS, Vanilla JS
 
 
-## Features
+### Features
 
 - Clean and modern design
 - Responsive layout that adapts to different screen sizes
@@ -19,7 +20,7 @@ HTML, CSS, Vanilla JS
 - Cross platform
 
 
-## Installation
+### Installation
 
 To install this website on your local machine, simply clone the repository and open the index.html file in your web browser:
 
@@ -30,7 +31,7 @@ open index.html
 
 ```
 
-## Usage
+### Usage
 
 Feel free to use this website as a template for your own portfolio. Replace my information with your own and customize the design to fit your personal style. Contributing
 

@@ -1,0 +1,6 @@
+Mohit Kumar
+BT21ece091
+
+Expectation: To teach git & github.
+
+50%
