@@ -1,0 +1,7 @@
+Name  : Abhijeet Kaithwas
+BT22CSA028
+Expectation : Getting the basic fundamentals clear of why we use Git & Github.
+	      How do we implement it and upload out projectrs in Github.
+
+75%
+
