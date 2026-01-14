@@ -1,0 +1,9 @@
+Daksh Kothari BT22CSD061
+
+Expectation:
+    To understand git and github.
+    How to integrate them
+    How it can be used for contribution and other work
+
+Fullfillment:  
+    I think 80% is fullfilled.
