@@ -1,0 +1,8 @@
+Manas Richhawal
+BT22CSE192
+
+Expectations
+To atleast be familiar with basic concepts of git and Githhub
+
+Fulfillment
+60%
