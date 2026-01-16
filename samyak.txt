@@ -1,0 +1,4 @@
+name :Samyak Rote
+BT22CSE160
+expectations:to learn git and github and to have hands on experience on how to use git and github 
+result expected:50%
